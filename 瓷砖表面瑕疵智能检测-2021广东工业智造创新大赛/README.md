@@ -17,7 +17,8 @@ GPU: 2080TI 11G
 - [paddlepaddle-gpu==2.0.0rc1](https://www.paddlepaddle.org.cn)
 
 ## 修改记录
-- 20210124 上传图像切块, 批预测ipynb
+- 20210124 上传图像切块, 批预测ipynb,`0_split.ipynb`支持coco格式数据分布统计以及cocoAPI的标注可视化
+
 
     
 
